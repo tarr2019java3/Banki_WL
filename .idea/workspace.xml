@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b50fe3-6c6e-4c40-9f76-2fa2c0423cac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ya8N3Pw2dVkYc7ZskcZrEE0lJE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StudentJSON_WL" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.student.Main" />
+      <module name="Banki_WL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12b50fe3-6c6e-4c40-9f76-2fa2c0423cac" name="Default Changelist" comment="" />
+      <created>1583169301046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583169301046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1583243564495">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583243564495" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1583245000886">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583245000886" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583247449055">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583247449055" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583247449055">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583247449055" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583247449054">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583247449054" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583247449055">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583247449055" />
+    <state width="1557" height="147" key="GridCell.Tab.1.bottom" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state width="1557" height="147" key="GridCell.Tab.1.center" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state width="1557" height="147" key="GridCell.Tab.1.left" timestamp="1583244936812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583244936812" />
+    <state width="1557" height="147" key="GridCell.Tab.1.right" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state width="1557" height="147" key="GridCell.Tab.2.bottom" timestamp="1583244936814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583244936814" />
+    <state width="1557" height="147" key="GridCell.Tab.2.center" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state width="1557" height="147" key="GridCell.Tab.2.left" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state width="1557" height="147" key="GridCell.Tab.2.right" timestamp="1583244936813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1583244936813" />
+    <state x="542" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1583174348992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="58" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1583174348992" />
+  </component>
+</project>
