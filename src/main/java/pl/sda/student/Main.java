@@ -2,6 +2,8 @@ package pl.sda.student;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -32,6 +34,18 @@ public class Main {
         System.out.println("Saldo: " + bankAccount1.getBalance());
 
       */
+
+        ObjectMapper objectMapper = new ObjectMapper();
+        try {
+            objectMapper.writeValue(new File("lista.json"), bank);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        List<Bank> banksList = new ArrayList<>();
+        banksList.add(bankDlaBogatych);
+        banksList.add(bankNowoczesny);
+        banksList.add(bank);
+        banksList.add(bigBank);
 
         Scanner scanner= new Scanner(System.in);
 

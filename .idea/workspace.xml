@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12b50fe3-6c6e-4c40-9f76-2fa2c0423cac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/student/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/student/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/student/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/student/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/student/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StudentJSON_WL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -84,22 +81,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583245000886" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583251171402">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583256877936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583251171402" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583251171402">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583256877936" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583256877935">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583251171402" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583251171402">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583256877935" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583256877934">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583251171402" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583251171402">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583256877934" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583256877935">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583251171402" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583256877935" />
     <state width="1557" height="147" key="GridCell.Tab.1.bottom" timestamp="1583244936813">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
