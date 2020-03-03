@@ -11,6 +11,10 @@ public class User {
         this.age = age;
     }
 
+    public User() {
+
+    }
+
     public void setName(String name) {
         this.name = name;
     }

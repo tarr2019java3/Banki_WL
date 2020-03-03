@@ -1,12 +1,13 @@
 package pl.sda.student;
 
-public class BankAccount {
+public class BankAccount extends User {
     private int id;
     private String name;
     private int accountNumber;
     private double balance;
 
     public BankAccount(int id, String name, int accountNumber, double balance) {
+        super();
         this.id = id;
         this.name = name;
         this.accountNumber = accountNumber;
