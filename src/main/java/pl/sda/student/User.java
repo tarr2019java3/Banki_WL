@@ -1,7 +1,7 @@
 package pl.sda.student;
 
 public class User {
-   private String name;
+    private String name;
     private String lastName;
     private int age;
 
@@ -13,18 +13,6 @@ public class User {
 
     public User() {
 
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
     }
 
     public String getName() {

@@ -49,10 +49,11 @@ public class Main {
 
         Scanner scanner= new Scanner(System.in);
 
-        System.out.println("Podaj ID konta od 1 do 4");
-        String ID = scanner.next();
+        System.out.println("Podaj ID konta od 1 do 4 i naciśnij ENTER");
+        int ID = scanner.nextInt();
 
-        int bankAccountID = Integer.parseInt(ID);
+        int bankAccountID = ID;
+
 
         switch (bankAccountID) {
 
@@ -70,6 +71,7 @@ public class Main {
                 System.out.println("Wiek: " + bankNowoczesny.getUser().getAge());
                 System.out.println("Nr konta: " + bankAccount2.getAccountNumber());
                 System.out.println("Saldo: " + bankAccount2.getBalance());
+                break;
 
             case 3:
                 System.out.println("Imię: " + bank.getUser().getName());
